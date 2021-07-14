@@ -20,7 +20,9 @@
   
   var campoData = Sys.Process("Orders").WinFormsObject("OrderForm").WinFormsObject("Group").WinFormsObject("Date");
   campoData.wDate = "2020-10-05";
-    
+  
+  
+  //TESTE
   
   
       
