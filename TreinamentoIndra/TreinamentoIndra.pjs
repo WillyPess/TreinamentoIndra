@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{9FC9959F-E509-4FED-9EF3-A18419C6B320}">
+	<children>
+		<child name="TreinamentoIndra" key="{FFC529F2-B842-4814-B58C-255A2CE4CABC}" path="TreinamentoIndra\TreinamentoIndra.mds" />
+	</children>
+	<testItems key="{213CB52E-0DB5-4FBF-84EF-07F4C934642F}">
+		<children>
+			<testItem key="{FFC529F2-B842-4814-B58C-255A2CE4CABC}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{B96A9F6C-1F7D-4173-83D7-951354C33B52}" />
+	<analysis key="{ED0013EE-BC08-446A-92AB-67AB569FE86D}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

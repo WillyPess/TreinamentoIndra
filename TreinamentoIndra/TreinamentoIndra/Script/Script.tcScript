@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Objects">
+			<child name="InsereNovaOrdem" key="{FE64BF8E-C059-4533-86DF-749DCE495306}" path="InsereNovaOrdem.js" />
+			<child name="PaginaInicial" key="{4A891932-C4BA-41E0-B978-CC5CF5FA9988}" path="PaginaInicial.js" />
+		</folder>
+		<folder name="Tests">
+			<child name="PrimeiraOrdem" key="{6CE01B0B-E42A-4B6D-8FED-43C29C6CB2F1}" path="PrimeiraOrdem.js" />
+			<child name="Test" key="{407723A7-3804-4E1D-B0FD-3D0BE512A829}" path="Test.js" />
+			<child name="AbrirApp" key="{36806AAC-124A-4F41-91AF-A9B41F49343C}" path="AbrirApp.js" />
+			<child name="FecharApp" key="{1BA6E546-FC93-41B3-A3D2-07694AB6C008}" path="FecharApp.js" />
+		</folder>
+	</children>
+</Root>

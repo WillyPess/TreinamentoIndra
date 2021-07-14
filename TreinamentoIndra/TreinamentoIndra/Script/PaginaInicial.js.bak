@@ -1,0 +1,9 @@
+﻿var PaginaInicial = function() {
+  
+  this.clickNovaOrdem = async() => {
+    var insereOrdem = Aliases.Orders.MainForm;
+    insereOrdem.MainMenu.Click("Orders|New order...");
+  }  
+  
+  }
+  module.exports = new PaginaInicial;
